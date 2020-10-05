@@ -2,7 +2,7 @@
 
 ### This allows you to use your Android phone as webcam on your PC without installing any shady stuff.
 
-1. Requrements
+1. Requirements:
 
 	On your PC:
 	- OBS - https://obsproject.com/
