@@ -1,0 +1,3 @@
+numpy
+urllib3
+opencv-python
