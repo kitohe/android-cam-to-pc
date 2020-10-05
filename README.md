@@ -1,7 +1,6 @@
 ## Android Camera to PC
 
 ### This allows you to use your Android phone as webcam on your PC without installing any shady stuff.
-<br>
 
 1. Requrements
 
