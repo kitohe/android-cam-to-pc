@@ -6,7 +6,6 @@
 
 	On your PC:
 	- OBS - https://obsproject.com/
-	- OBS VirtualCam Addon - https://obsproject.com/forum/resources/obs-virtualcam.949/
 	- Python3
 
 	On your Phone:
@@ -19,7 +18,7 @@
 	- Change `img_width` and `img_height` to desired values if you want to resize original camera output
 	- Run IP Webcam app and then start `webcam.py`
 	- Open OBS and add new `Window Capture` and add camera window
-	- Go to `Tools -> VirtualCam -> Start`
+	- Under the `Controls` in OBS windows, click `Start Virtaul Camera`
 	- Now go to app that you want to use camera with and just select `OBS-Camera`
 
 3. Notes:
